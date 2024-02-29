@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infografía sobre el Fascismo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .infografia {
+      max-width: 612px; /* Ancho para tamaño carta: 8.5 pulgadas = 612px */
+      margin: 0 auto;
+    }
+    .infografia img {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .infografia p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Infografía sobre el Fascismo</h1>
+  <div class="infografia">
+    <img src="imagen.jpg" alt="Infografía sobre el Fascismo">
+    <p>
+      - <strong>Definición y Origen:</strong> Movimiento político autoritario que surgió en Europa en el siglo XX, caracterizado por el nacionalismo extremo, el totalitarismo y el rechazo a la democracia liberal.<br>
+      - <strong>Países:</strong> Italia (con Mussolini), Alemania (con Hitler), España (con Franco) son algunos ejemplos.<br>
+      - <strong>La Tercera Vía:</strong> Concepto político que busca una alternativa entre el capitalismo liberal y el socialismo, a menudo asociado con el fascismo.<br>
+      - <strong>Características:</strong> Nacionalismo, autoritarismo, culto al líder, militarismo, corporativismo.<br>
+      - <strong>Prohibiciones:</strong> Censura, represión política, persecución de minorías.<br>
+      - <strong>Nacionalismo:</strong> Enfatiza la identidad nacional y promueve la superioridad de una nación sobre otras.<br>
+      - <strong>Pactos de Letrán:</strong> Acuerdo entre el Estado italiano y la Santa Sede en 1929, que concedió al Vaticano la independencia y estableció relaciones diplomáticas.<br>
+      - <strong>Economía en el Fascismo:</strong> Intervencionismo estatal en la economía, promoción de corporaciones controladas por el gobierno.<br>
+      - <strong>Cómo se ocupa el término hoy:</strong> Se utiliza para referirse a movimientos políticos autoritarios o totalitarios, así como a actitudes nacionalistas extremas.
+    </p>
+  </div>
+</body**⬤**
